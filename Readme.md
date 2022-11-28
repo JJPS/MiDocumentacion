@@ -54,7 +54,7 @@ El desplegar la documentación no conlleva la actualización del contenido de nu
 
 ```BASH
 git add .
-git -m commit "Actualización ..."
+git commit -m "Actualización ..."
 git push
 ```
 
